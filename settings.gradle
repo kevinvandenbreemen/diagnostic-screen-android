@@ -15,3 +15,4 @@ dependencyResolutionManagement {
 }
 rootProject.name = "diagnostic-screen"
 include ':app'
+include ':example'
